@@ -45,6 +45,8 @@ Modlist w/ Credits: (Incomplete)
 (Tschipp, Purplicious_Cow_)
 - Chisel
 (tterrag1098, Drullkus, minecreatr)
+- Clans
+(The_Fireplace, koshkayaguau)
 - Clumps
 (Jaredlll08, CFGrafanaStats) 
 - Construct's Armory
