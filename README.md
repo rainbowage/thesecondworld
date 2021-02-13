@@ -9,7 +9,7 @@ CurseForge:
 - https://www.curseforge.com/minecraft/modpacks/the-second-world
 
 MegaDownload (Mirror):
-- Coming soon.
+- https://mega.nz/file/GfY3HSoJ#sx9yXADPMccEW6XIEWp-yIMVwrMrVmP71unnj141TVc
 
 Discord:
 - https://discord.gg/ZMd2TWFaRm
@@ -45,8 +45,6 @@ Modlist w/ Credits: (Incomplete)
 (Tschipp, Purplicious_Cow_)
 - Chisel
 (tterrag1098, Drullkus, minecreatr)
-- Clans
-(The_Fireplace, koshkayaguau)
 - Clumps
 (Jaredlll08, CFGrafanaStats) 
 - Construct's Armory
