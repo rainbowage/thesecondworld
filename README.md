@@ -57,6 +57,48 @@ Modlist w/ Credits: (Incomplete)
 (RazzleberryFox, taelnia, profmobius, notjaackson)
 - Diet Hopper
 (rwtema)
-- Dynamic Trees
-- Dyanmic Trees - BOP Compat
-(ferreusveritas, cadaverous_queen)
+- Exotic Birds
+- Forestry
+- Forgelin
+- Fossils & Archaeology
+- Glassential
+- Grimoire of Gaia
+- Hwyla
+- Ice and Fire 
+- Industrial Craft 2
+- JEI
+- JEI Bees
+- Jouney Map
+- Just a Few Fish
+- Just Enough Harvestcraft
+- KleeSlabs
+- LLibrary
+- MagicBees
+- Mantle
+- Macaws Bridges
+- Macaws Doors
+- Macaws Windows
+- Millenaire
+- Moar Boats
+- Mouse Tweaks
+- Nature's Compass
+- Open Glider
+- Pam's Harvestcraft
+- PTR Lib
+- Quark
+- Quark Oddities
+- Railcraft
+- Gauges and Switches
+- Serene Seasons
+- Sophisticated Wolves
+- Sound Filters
+- Tinkers Construct
+- Thaumcraft
+- Thaumic JEI
+- Tinkers Complement
+- Tinkers JEI
+- The Twlight Forest
+- Wawla
+- Waystones
+- Weirding Gadget
+- Zoo & Wild Animals
